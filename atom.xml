@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://langandrat.github.io</id>
+    <title>RAT CAVE</title>
+    <updated>2021-12-29T08:59:33.425Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://langandrat.github.io"/>
+    <link rel="self" href="https://langandrat.github.io/atom.xml"/>
+    <subtitle>不要温和地走进那个良夜。</subtitle>
+    <logo>https://langandrat.github.io/images/avatar.png</logo>
+    <icon>https://langandrat.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, RAT CAVE</rights>
+    <entry>
+        <title type="html"><![CDATA[【python】01 变量、数据类型]]></title>
+        <id>https://langandrat.github.io/post/python-01-bian-liang-shu-ju-lei-xing/</id>
+        <link href="https://langandrat.github.io/post/python-01-bian-liang-shu-ju-lei-xing/">
+        </link>
+        <updated>2021-12-29T07:34:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝阳东升]]></title>
+        <id>https://langandrat.github.io/post/zhao-yang-dong-sheng/</id>
+        <link href="https://langandrat.github.io/post/zhao-yang-dong-sheng/">
+        </link>
+        <updated>2021-11-09T12:54:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>朱朝阳看见白色衬衫下包裹的丰腴身子、适合拿刀的骨节分明的手，这一切仿佛蒙在纱里让他看不分明，等他努力睁大眼睛抬头确认唇上的痣时，缱绻的梦却突然散去。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>朱朝阳看见白色衬衫下包裹的丰腴身子、适合拿刀的骨节分明的手，这一切仿佛蒙在纱里让他看不分明，等他努力睁大眼睛抬头确认唇上的痣时，缱绻的梦却突然散去。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无妄]]></title>
+        <id>https://langandrat.github.io/post/wu-wang/</id>
+        <link href="https://langandrat.github.io/post/wu-wang/">
+        </link>
+        <updated>2021-11-09T12:24:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>黑夜亮得刺眼</p>
+<p>2019.01.01</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>黑夜亮得刺眼</p>
+<p>2019.01.01</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秋日末]]></title>
+        <id>https://langandrat.github.io/post/qiu-ri-mo/</id>
+        <link href="https://langandrat.github.io/post/qiu-ri-mo/">
+        </link>
+        <updated>2021-11-09T12:22:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>给他</p>
+<p>给他酒</p>
+<p>让小号在深夜吹响</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>给他</p>
+<p>给他酒</p>
+<p>让小号在深夜吹响</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凛冬已去]]></title>
+        <id>https://langandrat.github.io/post/sui-bi/</id>
+        <link href="https://langandrat.github.io/post/sui-bi/">
+        </link>
+        <updated>2021-11-09T12:22:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>归日</p>
+<p>我素未谋面的爱人啊</p>
+<p>我求你永远快乐</p>
+<p>因为你的笑容是良药</p>
+<p>2018.08.04</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>归日</p>
+<p>我素未谋面的爱人啊</p>
+<p>我求你永远快乐</p>
+<p>因为你的笑容是良药</p>
+<p>2018.08.04</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【莫萨】他看见的]]></title>
+        <id>https://langandrat.github.io/post/mo-sa-ta-kan-jian-de/</id>
+        <link href="https://langandrat.github.io/post/mo-sa-ta-kan-jian-de/">
+        </link>
+        <updated>2021-11-09T12:21:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>莫萨无差/原梗《檀香刑》</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>莫萨无差/原梗《檀香刑》</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【托尼唐】绿皮书]]></title>
+        <id>https://langandrat.github.io/post/tuo-ni-tang-lu-pi-shu/</id>
+        <link href="https://langandrat.github.io/post/tuo-ni-tang-lu-pi-shu/">
+        </link>
+        <updated>2021-11-09T12:20:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>唐并不如表现出的那样圣人君子，而托尼意料外的对男人屁股有些兴趣。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>唐并不如表现出的那样圣人君子，而托尼意料外的对男人屁股有些兴趣。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑羊]]></title>
+        <id>https://langandrat.github.io/post/hei-yang/</id>
+        <link href="https://langandrat.github.io/post/hei-yang/">
+        </link>
+        <updated>2019-11-09T12:50:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>在维也纳的皇家园林之中，住着一只拥有魔法的黑羊先生，如果奉上让它满意的贡品，它就交换给你无上的音乐。——音乐家们私下里流传着这样的故事。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>在维也纳的皇家园林之中，住着一只拥有魔法的黑羊先生，如果奉上让它满意的贡品，它就交换给你无上的音乐。——音乐家们私下里流传着这样的故事。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【茂灵】地狱尽头]]></title>
+        <id>https://langandrat.github.io/post/mao-ling-di-yu-jin-tou/</id>
+        <link href="https://langandrat.github.io/post/mao-ling-di-yu-jin-tou/">
+        </link>
+        <updated>2019-05-04T12:16:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>【 地狱尽头】</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>【 地狱尽头】</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【茂灵】寻常]]></title>
+        <id>https://langandrat.github.io/post/mao-ling-xun-chang/</id>
+        <link href="https://langandrat.github.io/post/mao-ling-xun-chang/">
+        </link>
+        <updated>2019-04-27T12:46:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>*有漫画剧透注意</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>*有漫画剧透注意</p>
+]]></content>
+    </entry>
+</feed>
