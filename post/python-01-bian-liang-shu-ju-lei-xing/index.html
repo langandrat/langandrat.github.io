@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>【python】01 变量、数据类型 | RAT CAVE</title>
-<link rel="shortcut icon" href="https://langandrat.github.io/favicon.ico?v=1640768482356">
+<link rel="shortcut icon" href="https://langandrat.github.io/favicon.ico?v=1640769888628">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://langandrat.github.io/styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="【python】01 变量、数据类型 | RAT CAVE - Atom Feed" href="https://langandrat.github.io/atom.xml">
@@ -30,7 +30,7 @@ GetNameByLine(大驼峰)类名
       <div class="main-content">
         <div class="site-header">
   <a href="https://langandrat.github.io">
-  <img class="avatar" src="https://langandrat.github.io/images/avatar.png?v=1640768482356" alt="">
+  <img class="avatar" src="https://langandrat.github.io/images/avatar.png?v=1640769888628" alt="">
   </a>
   <h1 class="site-title">
     RAT CAVE
@@ -101,8 +101,8 @@ GetNameByLine(大驼峰)类名
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>一、变量<br>
-命名规范：<br>
+                <h2 id="一-变量">一、变量</h2>
+<p>命名规范：<br>
 1.字母、数字、下划线，数字不能开头，区分大小写，不能使用关键字<br>
 2.驼峰式命名<br>
 getNameByLine(小驼峰)<br>
@@ -110,8 +110,8 @@ GetNameByLine(大驼峰)类名<br>
 3.下划线<br>
 格式化：option+command+l</p>
 <!-- more -->
-<p>二、数据转换<br>
-注释：#<br>
+<h2 id="二-数据转换">二、数据转换</h2>
+<p>注释：#<br>
 输出：print（'a')<br>
 阻塞：input（）<br>
 类型转换：<br>
@@ -122,44 +122,160 @@ float:浮点型<br>
 bool：ture/false</p>
 <p>以变量名：a<br>
 str》int    》》》》int（a）</p>
-<p>关键字	描述<br>
-and	逻辑运算符。<br>
-as	创建别名。<br>
-assert	用于调试。<br>
-break	跳出循环。<br>
-class	定义类。<br>
-continue	继续循环的下一个迭代。<br>
-def	定义函数。<br>
-del	删除对象。<br>
-elif	在条件语句中使用，等同于 else if。<br>
-else	用于条件语句。<br>
-except	处理异常，发生异常时如何执行。<br>
-False	布尔值，比较运算的结果。<br>
-finally	处理异常，无论是否存在异常，都将执行一段代码。<br>
-for	创建 for 循环。<br>
-from	导入模块的特定部分。<br>
-global	声明全局变量。<br>
-if	写一个条件语句。<br>
-import	导入模块。<br>
-in	检查列表、元组等集合中是否存在某个值。<br>
-is	测试两个变量是否相等。<br>
-lambda	创建匿名函数。<br>
-None	表示 null 值。<br>
-nonlocal	声明非局部变量。<br>
-not	逻辑运算符。<br>
-or	逻辑运算符。<br>
-pass	null 语句，一条什么都不做的语句。<br>
-raise	产生异常。<br>
-return	退出函数并返回值。<br>
-True	布尔值，比较运算的结果。<br>
-try	编写 try...except 语句。<br>
-while	创建 while 循环。<br>
-with	用于简化异常处理。<br>
-yield	结束函数，返回生成器。</p>
+<table>
+<thead>
+<tr>
+<th>关键字</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>and</td>
+<td>逻辑运算符。</td>
+</tr>
+<tr>
+<td>as</td>
+<td>创建别名。</td>
+</tr>
+<tr>
+<td>assert</td>
+<td>用于调试。</td>
+</tr>
+<tr>
+<td>break</td>
+<td>跳出循环。</td>
+</tr>
+<tr>
+<td>class</td>
+<td>定义类。</td>
+</tr>
+<tr>
+<td>continue</td>
+<td>继续循环的下一个迭代。</td>
+</tr>
+<tr>
+<td>def</td>
+<td>定义函数。</td>
+</tr>
+<tr>
+<td>del</td>
+<td>删除对象。</td>
+</tr>
+<tr>
+<td>elif</td>
+<td>在条件语句中使用，等同于 else if。</td>
+</tr>
+<tr>
+<td>else</td>
+<td>用于条件语句。</td>
+</tr>
+<tr>
+<td>except</td>
+<td>处理异常，发生异常时如何执行。</td>
+</tr>
+<tr>
+<td>False</td>
+<td>布尔值，比较运算的结果。</td>
+</tr>
+<tr>
+<td>finally</td>
+<td>处理异常，无论是否存在异常，都将执行一段代码。</td>
+</tr>
+<tr>
+<td>for</td>
+<td>创建 for 循环。</td>
+</tr>
+<tr>
+<td>from</td>
+<td>导入模块的特定部分。</td>
+</tr>
+<tr>
+<td>global</td>
+<td>声明全局变量。</td>
+</tr>
+<tr>
+<td>if</td>
+<td>写一个条件语句。</td>
+</tr>
+<tr>
+<td>import</td>
+<td>导入模块。</td>
+</tr>
+<tr>
+<td>in</td>
+<td>检查列表、元组等集合中是否存在某个值。</td>
+</tr>
+<tr>
+<td>is</td>
+<td>测试两个变量是否相等。</td>
+</tr>
+<tr>
+<td>lambda</td>
+<td>创建匿名函数。</td>
+</tr>
+<tr>
+<td>None</td>
+<td>表示 null 值。</td>
+</tr>
+<tr>
+<td>nonlocal</td>
+<td>声明非局部变量。</td>
+</tr>
+<tr>
+<td>not</td>
+<td>逻辑运算符。</td>
+</tr>
+<tr>
+<td>or</td>
+<td>逻辑运算符。</td>
+</tr>
+<tr>
+<td>pass</td>
+<td>null 语句，一条什么都不做的语句。</td>
+</tr>
+<tr>
+<td>raise</td>
+<td>产生异常。</td>
+</tr>
+<tr>
+<td>return</td>
+<td>退出函数并返回值。</td>
+</tr>
+<tr>
+<td>True</td>
+<td>布尔值，比较运算的结果。</td>
+</tr>
+<tr>
+<td>try</td>
+<td>编写 try...except 语句。</td>
+</tr>
+<tr>
+<td>while</td>
+<td>创建 while 循环。</td>
+</tr>
+<tr>
+<td>with</td>
+<td>用于简化异常处理。</td>
+</tr>
+<tr>
+<td>yield</td>
+<td>结束函数，返回生成器。</td>
+</tr>
+</tbody>
+</table>
 
               </div>
               <div class="toc-container">
-                
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#%E4%B8%80-%E5%8F%98%E9%87%8F">一、变量</a></li>
+<li><a href="#%E4%BA%8C-%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%8D%A2">二、数据转换</a></li>
+</ul>
+</li>
+</ul>
+
               </div>
             </div>
           </article>

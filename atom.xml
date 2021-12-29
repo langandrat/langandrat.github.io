@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://langandrat.github.io</id>
     <title>RAT CAVE</title>
-    <updated>2021-12-29T09:01:26.915Z</updated>
+    <updated>2021-12-29T09:27:23.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://langandrat.github.io"/>
     <link rel="self" href="https://langandrat.github.io/atom.xml"/>
@@ -11,13 +11,24 @@
     <icon>https://langandrat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, RAT CAVE</rights>
     <entry>
+        <title type="html"><![CDATA[【python】02 算数运算符]]></title>
+        <id>https://langandrat.github.io/post/python-02-suan-shu-yun-suan-fu/</id>
+        <link href="https://langandrat.github.io/post/python-02-suan-shu-yun-suan-fu/">
+        </link>
+        <updated>2021-12-29T09:01:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>变量为0或者空字符串，转换结果为false，有值则为true。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>变量为0或者空字符串，转换结果为false，有值则为true。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【python】01 变量、数据类型]]></title>
         <id>https://langandrat.github.io/post/python-01-bian-liang-shu-ju-lei-xing/</id>
         <link href="https://langandrat.github.io/post/python-01-bian-liang-shu-ju-lei-xing/">
         </link>
         <updated>2021-12-29T07:34:22.000Z</updated>
-        <summary type="html"><![CDATA[<p>一、变量<br>
-命名规范：<br>
+        <summary type="html"><![CDATA[<h2 id="一-变量">一、变量</h2>
+<p>命名规范：<br>
 1.字母、数字、下划线，数字不能开头，区分大小写，不能使用关键字<br>
 2.驼峰式命名<br>
 getNameByLine(小驼峰)<br>
@@ -25,8 +36,8 @@ GetNameByLine(大驼峰)类名<br>
 3.下划线<br>
 格式化：option+command+l</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>一、变量<br>
-命名规范：<br>
+        <content type="html"><![CDATA[<h2 id="一-变量">一、变量</h2>
+<p>命名规范：<br>
 1.字母、数字、下划线，数字不能开头，区分大小写，不能使用关键字<br>
 2.驼峰式命名<br>
 getNameByLine(小驼峰)<br>
@@ -135,17 +146,6 @@ GetNameByLine(大驼峰)类名<br>
         <summary type="html"><![CDATA[<p>【 地狱尽头】</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>【 地狱尽头】</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【茂灵】寻常]]></title>
-        <id>https://langandrat.github.io/post/mao-ling-xun-chang/</id>
-        <link href="https://langandrat.github.io/post/mao-ling-xun-chang/">
-        </link>
-        <updated>2019-04-27T12:46:32.000Z</updated>
-        <summary type="html"><![CDATA[<p>*有漫画剧透注意</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>*有漫画剧透注意</p>
 ]]></content>
     </entry>
 </feed>
