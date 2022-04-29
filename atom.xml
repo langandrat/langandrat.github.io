@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://langandrat.github.io</id>
     <title>RAT CAVE</title>
-    <updated>2021-12-29T10:53:40.642Z</updated>
+    <updated>2022-04-29T13:10:21.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://langandrat.github.io"/>
     <link rel="self" href="https://langandrat.github.io/atom.xml"/>
     <subtitle>不要温和地走进那个良夜。</subtitle>
     <logo>https://langandrat.github.io/images/avatar.png</logo>
     <icon>https://langandrat.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, RAT CAVE</rights>
+    <rights>All rights reserved 2022, RAT CAVE</rights>
+    <entry>
+        <title type="html"><![CDATA[代码]]></title>
+        <id>https://langandrat.github.io/post/dai-ma/</id>
+        <link href="https://langandrat.github.io/post/dai-ma/">
+        </link>
+        <updated>2022-04-29T13:09:27.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【python】02 算数运算符]]></title>
         <id>https://langandrat.github.io/post/python-02-suan-shu-yun-suan-fu/</id>
@@ -135,17 +142,6 @@ GetNameByLine(大驼峰)类名<br>
         <summary type="html"><![CDATA[<p>在维也纳的皇家园林之中，住着一只拥有魔法的黑羊先生，如果奉上让它满意的贡品，它就交换给你无上的音乐。——音乐家们私下里流传着这样的故事。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>在维也纳的皇家园林之中，住着一只拥有魔法的黑羊先生，如果奉上让它满意的贡品，它就交换给你无上的音乐。——音乐家们私下里流传着这样的故事。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【茂灵】地狱尽头]]></title>
-        <id>https://langandrat.github.io/post/mao-ling-di-yu-jin-tou/</id>
-        <link href="https://langandrat.github.io/post/mao-ling-di-yu-jin-tou/">
-        </link>
-        <updated>2019-05-04T12:16:23.000Z</updated>
-        <summary type="html"><![CDATA[<p>【 地狱尽头】</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>【 地狱尽头】</p>
 ]]></content>
     </entry>
 </feed>
