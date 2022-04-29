@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://langandrat.github.io</id>
     <title>RAT CAVE</title>
-    <updated>2022-04-29T13:15:18.784Z</updated>
+    <updated>2022-04-29T13:16:38.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://langandrat.github.io"/>
     <link rel="self" href="https://langandrat.github.io/atom.xml"/>
@@ -16,7 +16,48 @@
         <link href="https://langandrat.github.io/post/shou-quan-fan-yi-batfamwei-en-jia-gui/">
         </link>
         <updated>2022-04-29T13:11:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>Rules_by audreycritter</p>
+        <summary type="html"><![CDATA[<script language = JavaScript> function password() {
+
+    var testV = 1;
+
+    var pass1 = prompt('please input the password','');
+
+    var passwordforthisarticle = "1";
+
+    var inputtimemax = 1;
+
+    while (testV < inputtimemax) {
+
+    if (!pass1)
+
+    history.go(-1);
+
+    if (pass1 == passwordforthisarticle) {
+
+    break;
+
+    }
+
+    testV+=1;
+
+    var pass1 =
+
+    prompt('Password error!');
+
+    }
+
+    if (pass1!= passwordforthisarticle & testV == inputtimemax)  
+
+    history.go(-1);
+
+    return " ";
+
+    }
+
+    document.write(password());
+
+</script> 
+<p>Rules_by audreycritter</p>
 <p>译者的话：蝙蝠家小甜饼一发完，如果有什么问题，都是我的错，原作非常棒。</p>
 <p>原文</p>
 <pre><code>Summary:
@@ -221,7 +262,48 @@
 </code></pre>
 <p>——End——</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Rules_by audreycritter</p>
+        <content type="html"><![CDATA[<script language = JavaScript> function password() {
+
+    var testV = 1;
+
+    var pass1 = prompt('please input the password','');
+
+    var passwordforthisarticle = "1";
+
+    var inputtimemax = 1;
+
+    while (testV < inputtimemax) {
+
+    if (!pass1)
+
+    history.go(-1);
+
+    if (pass1 == passwordforthisarticle) {
+
+    break;
+
+    }
+
+    testV+=1;
+
+    var pass1 =
+
+    prompt('Password error!');
+
+    }
+
+    if (pass1!= passwordforthisarticle & testV == inputtimemax)  
+
+    history.go(-1);
+
+    return " ";
+
+    }
+
+    document.write(password());
+
+</script> 
+<p>Rules_by audreycritter</p>
 <p>译者的话：蝙蝠家小甜饼一发完，如果有什么问题，都是我的错，原作非常棒。</p>
 <p>原文</p>
 <pre><code>Summary:
